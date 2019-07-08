@@ -12,7 +12,7 @@ Laravel Multiple Guard Authentication with multiple tables.
 ## Bootstrap 4.3 UI
 > Front end Framework<br>
 > UI Components<br>
-## Laravel 5.6
+## Laravel 5.7
 > King of PHP Framework<br>
 
 ## Sources
