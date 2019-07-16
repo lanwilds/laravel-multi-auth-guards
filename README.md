@@ -1,6 +1,8 @@
 # Laravel Multi Authetication
 Laravel Multiple Guard Authentication with multiple tables.
 
+## Read Complete Tutorial 
+https://codemeda.com/how-to-use-multiple-authentication-table-in-laravel-app/
 ## Installation
 > Rename .env.example to .env <br>
 > Specify your database credentials <br>
@@ -12,7 +14,7 @@ Laravel Multiple Guard Authentication with multiple tables.
 ## Bootstrap 4.3 UI
 > Front end Framework<br>
 > UI Components<br>
-## Laravel 5.6
+## Laravel 5.7
 > King of PHP Framework<br>
 
 ## Sources
